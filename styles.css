@@ -18,8 +18,8 @@ section {
 .navbar {
     background-color: #333333;
     overflow: hidden;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbar img {
@@ -45,11 +45,11 @@ section {
     background-color: #ddd;
     color: black;
 }
-h1 {
+.intro h1 {
     font-size: 60px;
     padding-top: 100px;
 }
-#alcim {
+.intro h2 {
     font-size: 40px;
     color: #ff0099;
 }
@@ -61,9 +61,10 @@ p {
     word-spacing: 7px;
     line-height: 1.6em;
 }
-#techwiki {
+.techwiki h1 {
     text-align: center;
+    font-size: 40px;
 }
-#second{
+.techwiki{
    font-family: 'Courier New', Courier, monospace; 
 }
