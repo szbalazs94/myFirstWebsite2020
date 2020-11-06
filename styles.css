@@ -6,9 +6,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto', courier, consolas;
-
 }
 section {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+article {
     padding-left: 10%;
     padding-right: 10%;
 }
@@ -21,17 +24,14 @@ section {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
 .navbar img {
     float: left;
     padding-left: 10%;
 }
-
 .navbar .links {
     float: right;
     padding-right: 10%;
 }
-
 .navbar a {
     color: #ff0099;
     text-align: center;
@@ -39,8 +39,7 @@ section {
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 17px;
-}
-  
+}  
 .navbar a:hover {
     background-color: #ddd;
     color: black;
@@ -52,9 +51,6 @@ section {
 .intro h2 {
     font-size: 40px;
     color: #ff0099;
-}
-h4 {
-    font-size: 24px;
 }
 p {
     font-size: 24px;
