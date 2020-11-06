@@ -3,8 +3,6 @@ body {
     min-width: 500px;
     background-image: url("assets/topography.png");
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     font-family: 'Roboto', courier, consolas;
 }
 section {
